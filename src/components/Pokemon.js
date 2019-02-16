@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./Pokemon.css";
+import { isArray } from "util";
 
 class Pokemon extends Component {
   render() {
@@ -55,14 +56,27 @@ class Pokemon extends Component {
             <div className="pokemon__info__title">Max CP</div>
             <div className="pokemon__info__value">{data.maxCP}</div>
           </div>
-          {data.egg && data.egg !== "Not in Eggs" && (
+          {data.egg && data.egg !== "Not in Eggs" && isArray(data.egg) ? (
             <div className="pokemon__info__egg-type">
-              <img
-                className="pokemon__info__egg"
-                src={`/images/eggs/${data.egg}.png`}
-                alt={`${data.egg} egg`}
-              />
+              {data.egg.map(egg => (
+                <img
+                  className="pokemon__info__egg"
+                  src={`/images/eggs/${egg}.png`}
+                  alt={`${egg} egg`}
+                />
+              ))}
             </div>
+          ) : (
+            data.egg &&
+            data.egg !== "Not in Eggs" && (
+              <div className="pokemon__info__egg-type">
+                <img
+                  className="pokemon__info__egg"
+                  src={`/images/eggs/${data.egg}.png`}
+                  alt={`${data.egg} egg`}
+                />
+              </div>
+            )
           )}
         </div>
       </div>
