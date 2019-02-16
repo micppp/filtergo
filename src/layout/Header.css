@@ -1,0 +1,14 @@
+.header {
+  background-color: #85ff9e;
+  margin-bottom: 2rem;
+}
+
+.header > .container {
+  align-items: center;
+  display: flex;
+  height: 70px;
+}
+
+.header__h1 {
+  margin: 0;
+}

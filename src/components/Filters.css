@@ -1,0 +1,35 @@
+.filters {
+  margin-bottom: 1.5rem;
+}
+
+.filters__list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.region,
+.distance,
+.other,
+.egg {
+  border: 1px solid #555555;
+}
+
+.filters__list-option {
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  text-transform: capitalize;
+}
+
+.filters__list-option:not(:last-of-type) {
+  margin-right: 0.5rem;
+}
+
+.filters__list-option:not(.type):hover {
+  background-color: #555;
+  color: #fff;
+}
+
+.filters__list-option:hover {
+  cursor: pointer;
+}

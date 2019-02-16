@@ -1,0 +1,2114 @@
+[
+  {
+    "name": "Bulbasaur",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Ivysaur",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Venusaur",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Charmander",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Charmeleon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Charizard",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Squirtle",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Wartortle",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Blastoise",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Caterpie",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Metapod",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Butterfree",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Weedle",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Kakuna",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Beedrill",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pidgey",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pidgeotto",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pidgeot",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rattata",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rattata",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Raticate",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Raticate",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Spearow",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Fearow",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ekans",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Arbok",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pikachu",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Raichu",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Raichu",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sandshrew",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sandshrew",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Sandslash",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sandslash",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Nidoran♀",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Nidorina",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Nidoqueen",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Nidoran♂",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Nidorino",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Nidoking",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Clefairy",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Clefable",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Vulpix",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Vulpix",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Ninetales",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ninetales",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Jigglypuff",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wigglytuff",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Zubat",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Golbat",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Oddish",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Gloom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Vileplume",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Paras",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Parasect",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Venonat",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Venomoth",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Diglett",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Diglett",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Dugtrio",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dugtrio",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Meowth",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Meowth",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Persian",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Persian",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Psyduck",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Golduck",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mankey",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Primeape",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Growlithe",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Arcanine",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Poliwag",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Poliwhirl",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Poliwrath",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Abra",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Kadabra",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Alakazam",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Machop",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Machoke",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Machamp",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bellsprout",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Weepinbell",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Victreebel",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Tentacool",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Tentacruel",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Geodude",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Geodude",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Graveler",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Graveler",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Golem",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Golem",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ponyta",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Rapidash",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Slowpoke",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Slowbro",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Magnemite",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Magneton",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Farfetch'd",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Doduo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dodrio",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Seel",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Dewgong",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Grimer",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Grimer",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Muk",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Muk",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shellder",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Cloyster",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gastly",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Haunter",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gengar",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Onix",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Drowzee",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Hypno",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Krabby",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Kingler",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Voltorb",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Electrode",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Exeggcute",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Exeggutor",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Exeggutor",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cubone",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Marowak",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Marowak",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Hitmonlee",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Hitmonchan",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lickitung",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Koffing",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Weezing",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rhyhorn",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Rhydon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Chansey",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Tangela",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Kangaskhan",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Horsea",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Seadra",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Goldeen",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Seaking",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Staryu",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Starmie",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mr. Mime",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Scyther",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Jynx",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Electabuzz",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Magmar",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pinsir",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Tauros",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Magikarp",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Gyarados",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lapras",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ditto",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Eevee",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Vaporeon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Jolteon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Flareon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Porygon",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Omanyte",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Omastar",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Kabuto",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Kabutops",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Aerodactyl",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Snorlax",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Articuno",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Zapdos",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Moltres",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dratini",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Dragonair",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dragonite",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mewtwo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mew",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Chikorita",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Bayleef",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Meganium",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cyndaquil",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Quilava",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Typhlosion",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Totodile",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Croconaw",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Feraligatr",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sentret",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Furret",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Hoothoot",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Noctowl",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ledyba",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ledian",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Spinarak",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Ariados",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Crobat",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Chinchou",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Lanturn",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pichu",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Cleffa",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Igglybuff",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Togepi",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Togetic",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Natu",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Xatu",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mareep",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Flaaffy",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ampharos",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bellossom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Marill",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Azumarill",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sudowoodo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Politoed",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Hoppip",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Skiploom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Jumpluff",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Aipom",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Sunkern",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sunflora",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Yanma",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wooper",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Quagsire",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Espeon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Umbreon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Murkrow",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Slowking",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Misdreavus",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Unown",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wobbuffet",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Girafarig",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Pineco",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Forretress",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dunsparce",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Gligar",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Steelix",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Snubbull",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Granbull",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Qwilfish",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Scizor",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shuckle",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Heracross",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sneasel",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Teddiursa",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Ursaring",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Slugma",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Magcargo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Swinub",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Piloswine",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Corsola",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Remoraid",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Octillery",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Delibird",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mantine",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Skarmory",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Houndour",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Houndoom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Kingdra",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Phanpy",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Donphan",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Porygon2",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Stantler",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Smeargle",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Tyrogue",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Hitmontop",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Smoochum",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Elekid",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Magby",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Miltank",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Blissey",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Raikou",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Entei",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Suicune",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Larvitar",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Pupitar",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Tyranitar",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lugia",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ho-Oh",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Celebi",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Treecko",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Grovyle",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sceptile",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Torchic",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Combusken",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Blaziken",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mudkip",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Marshtomp",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Swampert",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Poochyena",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Mightyena",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Zigzagoon",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Linoone",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wurmple",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Silcoon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Beautifly",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cascoon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dustox",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lotad",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Lombre",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ludicolo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Seedot",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Nuzleaf",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shiftry",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Taillow",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Swellow",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wingull",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Pelipper",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ralts",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Kirlia",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gardevoir",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Surskit",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Masquerain",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shroomish",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Breloom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Slakoth",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Vigoroth",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Slaking",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Nincada",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ninjask",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shedinja",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Whismur",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Loudred",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Exploud",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Makuhita",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Hariyama",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Azurill",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Nosepass",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Skitty",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Delcatty",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Sableye",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mawile",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Aron",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Lairon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Aggron",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Meditite",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Medicham",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Electrike",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Manectric",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Plusle",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Minun",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Volbeat",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Illumise",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Roselia",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gulpin",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Swalot",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Carvanha",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Sharpedo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wailmer",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Wailord",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Numel",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Camerupt",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Torkoal",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Spoink",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Grumpig",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Spinda",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Trapinch",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Vibrava",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Flygon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cacnea",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Cacturne",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Swablu",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Altaria",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Zangoose",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Seviper",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lunatone",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Solrock",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Barboach",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Whiscash",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Corphish",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Crawdaunt",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Baltoy",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Claydol",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lileep",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cradily",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Anorith",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Armaldo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Feebas",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Milotic",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Castform",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Castform",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Castform",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Castform",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Kecleon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shuppet",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Banette",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Duskull",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Dusclops",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Tropius",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Chimecho",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Absol",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wynaut",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Snorunt",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Glalie",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Spheal",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Sealeo",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Walrein",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Clamperl",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Huntail",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gorebyss",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Relicanth",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Luvdisc",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Bagon",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Shelgon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Salamence",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Beldum",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Metang",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Metagross",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Regirock",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Regice",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Registeel",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Latias",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Latios",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Kyogre",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Groudon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rayquaza",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Jirachi",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Deoxys",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Deoxys",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Deoxys",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Deoxys",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Turtwig",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Grotle",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Torterra",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Chimchar",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Monferno",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Infernape",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Piplup",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Prinplup",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Empoleon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Starly",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Staravia",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Staraptor",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bidoof",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bibarel",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Kricketot",
+    "inEggs": "2km"
+  },
+  {
+    "name": "Kricketune",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shinx",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Luxio",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Luxray",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Budew",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Roserade",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cranidos",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Rampardos",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shieldon",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Bastiodon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Burmy",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wormadam",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wormadam",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Wormadam",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mothim",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Combee",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Vespiquen",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Pachirisu",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Buizel",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Floatzel",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cherubi",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cherrim",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shellos",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gastrodon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Ambipom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Drifloon",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Drifblim",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Buneary",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Lopunny",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mismagius",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Honchkrow",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Glameow",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Purugly",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Chingling",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Stunky",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Skuntank",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bronzor",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bronzong",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Bonsly",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Mime Jr.",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Happiny",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Chatot",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Spiritomb",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gible",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gabite",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Garchomp",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Munchlax",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Riolu",
+    "inEggs": "10km7km"
+  },
+  {
+    "name": "Lucario",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Hippopotas",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Hippowdon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Skorupi",
+    "inEggs": "10km"
+  },
+  {
+    "name": "Drapion",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Croagunk",
+    "inEggs": "5km"
+  },
+  {
+    "name": "Toxicroak",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Carnivine",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Finneon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lumineon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mantyke",
+    "inEggs": "7km"
+  },
+  {
+    "name": "Snover",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Abomasnow",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Weavile",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Magnezone",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Lickilicky",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rhyperior",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Tangrowth",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Electivire",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Magmortar",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Togekiss",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Yanmega",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Leafeon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Glaceon",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gliscor",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mamoswine",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Porygon-Z",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Gallade",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Probopass",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dusknoir",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Froslass",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rotom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rotom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rotom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rotom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rotom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Rotom",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Uxie",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Mesprit",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Azelf",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Dialga",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Palkia",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Heatran",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Regigigas",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Giratina",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Giratina",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Cresselia",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Phione",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Manaphy",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Darkrai",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shaymin",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Shaymin",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Arceus",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Meltan",
+    "inEggs": "Not in Eggs"
+  },
+  {
+    "name": "Melmetal",
+    "inEggs": "Not in Eggs"
+  }
+]

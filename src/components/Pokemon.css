@@ -1,0 +1,74 @@
+.pokemon {
+  background-color: #fff;
+  box-shadow: 1px 1px 2px #ddd;
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+
+.pokemon__details {
+  align-items: center;
+  border-bottom: 1px solid #eeeff1;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.pokemon__image {
+  height: 50px;
+  margin-right: 0.5rem;
+  object-fit: contain;
+  width: 50px;
+}
+
+.pokemon__details__attr {
+  align-items: center;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-between;
+}
+
+.pokemon__name {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.pokemon__info {
+  display: flex;
+  font-size: 0.875rem;
+}
+
+.pokemon__info > div:not(:last-of-type) {
+  margin-right: 1rem;
+  padding-right: 1rem;
+}
+
+.pokemon__info__egg-type {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.pokemon__info__egg {
+  height: 30px;
+}
+
+.pokemon__info__title {
+  color: hsl(214, 7%, 47%);
+}
+
+.pokemon__info__value {
+  font-weight: 700;
+}
+
+.pokemon .pokemon__types {
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (min-width: 768px) {
+  .pokemon .pokemon__types {
+    flex-direction: row;
+  }
+}
