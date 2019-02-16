@@ -58,8 +58,9 @@ class Pokemon extends Component {
           </div>
           {data.egg && data.egg !== "Not in Eggs" && isArray(data.egg) ? (
             <div className="pokemon__info__egg-type">
-              {data.egg.map(egg => (
+              {data.egg.map((egg, i) => (
                 <img
+                  key={i}
                   className="pokemon__info__egg"
                   src={`/images/eggs/${egg}.png`}
                   alt={`${egg} egg`}
