@@ -12,6 +12,7 @@ class App extends Component {
     allPokemon: allPokemonJSON,
     alolaPokemon: [],
     filteredPokemon: [],
+    open: false,
     shinySprite: false
   };
 
@@ -146,19 +147,22 @@ class App extends Component {
     });
   };
 
+  handleMenuClick = () => this.setState({ open: !this.state.open });
+
   componentDidMount = () => {
     this.getAlolaPokemon();
     this.setEggs();
   };
 
   render() {
-    const { allPokemon, filteredPokemon, shinySprite } = this.state;
+    const { allPokemon, filteredPokemon, open, shinySprite } = this.state;
     const data = filteredPokemon.length > 0 ? filteredPokemon : allPokemon;
 
     return (
       <Fragment>
-        <Header />
+        <Header open={open} handleMenuClick={this.handleMenuClick} />
         <Filters
+          open={open}
           filterEggs={this.filterEggs}
           filterRegion={this.filterRegion}
           filterType={this.filterType}

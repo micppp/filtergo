@@ -1,5 +1,10 @@
 .filters {
-  margin-bottom: 1.5rem;
+  display: none;
+  margin-bottom: 2rem;
+}
+
+.filters--open {
+  display: block;
 }
 
 .filters__list {

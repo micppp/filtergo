@@ -15,6 +15,14 @@ body {
   padding: 0;
 }
 
+.fl {
+  display: flex;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
+
 .pokemon-grid {
   display: grid;
   grid-gap: 1rem;
@@ -113,9 +121,21 @@ body {
   cursor: pointer;
 }
 
+.pokemon__info__egg + .pokemon__info__egg {
+  margin-left: 0.5rem;
+}
+
 @media only screen and (min-width: 768px) {
   .container {
     max-width: 1200px;
+  }
+
+  .l-fl {
+    display: flex;
+  }
+
+  .l-fl > .filter:not(:last-of-type) {
+    margin-right: 2rem;
   }
 
   .pokemon-grid {

@@ -8,6 +8,7 @@ import "./Filters.css";
 class Filters extends Component {
   render() {
     const {
+      open,
       filterEggs,
       filterRegion,
       filterType,
@@ -17,25 +18,27 @@ class Filters extends Component {
     } = this.props;
 
     return (
-      <section className="filters">
+      <section className={open ? "filters filters--open" : "filters"}>
         <div className="container">
           <Region
             filterRegion={filterRegion}
             setAlolaPokemon={setAlolaPokemon}
           />
           <Types filterType={filterType} />
-          <Eggs filterEggs={filterEggs} />
-          <WalkingDistance filterWalkingDistance={filterWalkingDistance} />
-          <div className="filter">
-            <h3 className="filter__h3">Other:</h3>
-            <ul className="no-bullet filters__list">
-              <li
-                className={`filters__list-option other other--shinies`}
-                onClick={getShinies}
-              >
-                Shiny Pokemon
-              </li>
-            </ul>
+          <div className="l-fl">
+            <Eggs filterEggs={filterEggs} />
+            <WalkingDistance filterWalkingDistance={filterWalkingDistance} />
+            <div className="filter">
+              <h3 className="filter__h3">Other:</h3>
+              <ul className="no-bullet filters__list">
+                <li
+                  className={`filters__list-option other other--shinies`}
+                  onClick={getShinies}
+                >
+                  Shiny Pokemon
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
